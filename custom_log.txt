@@ -1,0 +1,4 @@
+2014-11-26 14:18:53 :: I will just append to my custom log file 
+
+2014-11-26 14:19:24 :: I will just append to my custom log file 
+
